@@ -162,3 +162,11 @@ Learn more about the power of Turborepo:
 ## Prerequisites
 - Required environment and dependencies
 
+
+## 🐳 Docker Support
+
+Run the system seamlessly using Docker:
+
+```bash
+docker compose up --build
+```
